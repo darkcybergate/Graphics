@@ -1,0 +1,22 @@
+GOAL:-
+
+Implemented Cube instead of bike.Implemented Terrain and Gold coins.
+
+CONTROLS : -
+------------
+
+1) KEY 1 for Follow Cam View.
+
+2) KEY 2 for Helicopter View.
+
+3) KEY 3 for Driver View.
+
+4) KEY 4 for Wheel View.
+
+5) KEY 5 for Overhead View
+
+ARROW KEYS TO MOVE BIKE.
+
+
+
+

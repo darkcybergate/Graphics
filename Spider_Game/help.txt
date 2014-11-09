@@ -1,0 +1,36 @@
+
+GOAL:-
+Spiders have colors Red,Green,Black. Black Spider needs to 
+be shot , green and red spiders to be collected.
+
+CONTROLS : -
+------------
+
+1) b->to control cannon ,
+   when cannon is selected "left" key to move left, "right" key to move right,
+   "up" key to change angle of cannon , "spacebar" to shoot laser. Shooting laser in desired
+   angle is also possible.
+
+2) r->to control red box , g->to control green box,p->pause/unpause
+   when box are selected "left" key to move left ,
+   "right" key to move right.
+
+3) There is powerup which will appear at random time interval which when
+   shot will clear all spiders and
+   free entire space.
+
+4) Once spider falls that place will be blocked and cannon can not move
+   across it though powerup will clear area and spider can move across it.
+
+5) Diffrent audio for laser,explosion and powerup is also added along with 
+   audio for game over
+
+6) Running Score board implemented.
+
+7) Dragging cannon with mouse is possible and changing angle of cannon is also 
+   possible
+
+
+   Spider will fall randomly at random position at random speed 
+   and at random quantity aim of game is to collect green and red spider 
+   and shoot black spider
